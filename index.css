@@ -3,17 +3,16 @@ html {
     color: white;
     zoom: 80%;
     -ms-zoom: 80%;
+    font-family: "Montserrat", Arial, sans-serif;
 }
 
 .aqua {
     color: #5ce1e6;
     transition: color 1s ease;
-    font-family: "Montserrat", sans-serif;
 }
 
 .about {
     font-size: 21px;
-    font-family: Arial, sans-serif;
 }
 
 abbr {
